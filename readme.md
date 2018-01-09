@@ -1,11 +1,6 @@
 ## Course Content
 - Enviroment Installation
 - Basics
-  - hello-world
-    - analysis
-  - namespace
-  - namespace restrictive
-  - outputs, streams
 - types
   - types
   - integer
