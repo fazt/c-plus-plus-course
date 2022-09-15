@@ -1,3 +1,7 @@
+### C++ Course
+
+This repostirory is a set of code examples in C++ for beginner for people that watch the C++ Course
+
 ## Course Content
 - Enviroment Installation
 - Basics
@@ -15,7 +19,8 @@
 - Inputs
 
 ## Useful Commands
--To compile: `g++ -o myOutput myInput.cpp`
+
+* To compile: `g++ -o myOutput myInput.cpp`
 
 ## More Info
 - What is a compiler?
